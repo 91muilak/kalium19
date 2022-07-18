@@ -2,7 +2,7 @@
 	"name": "@rx1310/kalium19",
 	"version": "4.0.0-alpha",
 	"description": "📦 Набор утилит, миксинов, расширений на языке препроцессора @sass для помощи в ускорении, упрощении и улучщения процесса написания CSS-стилей.",
-	"main": "index.scss",
+	"main": ".bin/index.js",
 	"publishConfig": {
 		"access": "public"
 	},
@@ -48,6 +48,9 @@
 		"url": "https://github.com/91muilak/kalium19/issues"
 	},
 	"homepage": "https://github.com/91muilak/kalium19#readme",
+	"bin": {
+		"kalium19": ".bin/index.js"
+	},
 	"devDependencies": {
 		"sass": "^1.53.0"
 	},
