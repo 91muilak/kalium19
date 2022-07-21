@@ -1,13 +1,6 @@
 # My workspace
 test.*
 
-# SASS
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
-*.css
-
 # NodeJS
 node_modules
 logs
