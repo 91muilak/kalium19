@@ -1,13 +1,12 @@
 {
   "private": true,
   "scripts": {
-    "start": "sassdoc ../kalium19/modules/ --theme neat --dest docs/"
-  },
-  "devDependencies": {
-    "sassdoc": "^2.7.4",
-    "sassdoc-theme-neat": "^0.0.2"
+    "start": "sassdoc ../kalium19/modules/ --theme herman --dest docs/"
   },
   "dependencies": {
-    "sassdoc-theme-default": "^2.8.5"
+    "sass": "^1.53.0",
+    "sassdoc-theme-herman": "^4.0.2",
+    "sassdoc-theme-neat": "^0.0.2",
+    "sassdoc": "^2.7.4"
   }
 }
