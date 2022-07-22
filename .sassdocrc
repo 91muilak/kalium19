@@ -1,0 +1,27 @@
+{
+  "package": {
+    "title": "Kalium19",
+    "name": "kalium19",
+    "homepage": "https://github.com/rx1310/kalium19",
+    "description": "Набор утилит, миксинов, расширений на языке препроцессора SASS для помощи в ускорении и упрощении написания CSS-стилей."
+  },
+	"view": {
+		"company": {
+			"name": "rx1310",
+			"trademarkYears": "2022",
+			"homepage": "https://github.com/rx1310/kalium19",
+			"logoPath": "https://github.com/rx1310/kalium19/blob/main/.github/logo.png?raw=true"
+		},
+		"links": {
+			"github": "https://github.com/rx1310/kalium19",
+			"twitter": "https://twitter.com/rx1310",
+			"gitter": "https://t.me/rx1310_discuss"
+		},
+		"library": {
+			"homepage": "https://github.com/rx1310/kalium19",
+			"name": "kalium19"
+		},
+		"logoPath": "https://github.com/rx1310/kalium19/blob/main/.github/logo.png?raw=true"
+	},
+  "autofill": "false"
+}

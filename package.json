@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "start": "sassdoc ../kalium19/modules/ --theme neat --dest docs/"
+    "start": "sassdoc ../kalium19/modules/ --theme neat --dest docs/ --config=.sassdocrc"
   },
   "dependencies": {
     "sass": "^1.53.0",
